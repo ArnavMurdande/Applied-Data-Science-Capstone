@@ -63,8 +63,7 @@ Prepare a professional report to communicate your findings and recommendations.
 
 ---
 
-## **Celebrating Achievements** 🎉
 
 ### **Certificate of Completion** 🏅  
-Upon completing the course, I earned the **IBM Course 10 Completion Certificate** as proof of my accomplishme
+Upon completing the course, I earned the **IBM Course 10 Completion Certificate** as proof of my accomplishment ......
 
