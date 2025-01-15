@@ -27,7 +27,7 @@ In this module, you will compile all your activities into a single cohesive repo
 
 - **Submission Overview and Instructions**  
 - **Exercise:** Preparing Your Presentation (using a provided slide template)  
-- **Graded Assignment:** Peer Review - Submit Your Work and Review Your Peers (**100%**)  
+- **Graded Assignment:** Peer Review - Submit Your Work and Review Your Peers (**....**)  
 
 ---
 
